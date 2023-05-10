@@ -1,1 +1,2 @@
-# это просто текст внутри файла README.md local changes
+# это просто текст внутри файла README.md remote changes
+some new line
